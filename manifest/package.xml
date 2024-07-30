@@ -4,6 +4,7 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
+    
     <types>
         <members>*</members>
         <name>ApexComponent</name>
@@ -31,6 +32,10 @@
     <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
     </types>
     <version>61.0</version>
 </Package>
